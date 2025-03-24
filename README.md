@@ -25,8 +25,10 @@ Aspiring Software Developer with a strong foundation in cloud services, cybersec
 *Swinburne University, 2021 – 2022*
 
 **Bachelor of Computer Science (Game Design)**  
-*Latrobe University, 2018 – 2020*
+*Latrobe University, 2016 – 2018*
 
+**Bachelor of Eletrical Engineering**
+*Latrobe University, 2019*
 ---
 
 ## 🛠️ Technical Skills
