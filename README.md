@@ -27,8 +27,9 @@ Aspiring Software Developer with a strong foundation in cloud services, cybersec
 **Bachelor of Computer Science (Game Design)**  
 *Latrobe University, 2016 – 2018*
 
-**Bachelor of Eletrical Engineering**
+**Bachelor of Electical Engineering (Dropped)**  
 *Latrobe University, 2019*
+
 ---
 
 ## 🛠️ Technical Skills
