@@ -1,4 +1,4 @@
-# # 👨‍💻 Son Nguyen – Software Engineer
+# 👨‍💻 Son Nguyen – Software Engineer
 
 Aspiring Software Developer with a strong foundation in cloud services, cybersecurity, and full-stack development. My experience spans across database management, authentication systems, and front-end development using modern frameworks.
 
